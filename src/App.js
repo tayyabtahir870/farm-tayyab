@@ -3,6 +3,7 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 import Header from './Components/Layouts/Header';
 import Footer from './Components/Layouts/Footer';
 import Hero from './Components/Elements/Hero'
+import Card from './Components/Elements/Card';
 
 function App() {
   return (
@@ -10,6 +11,7 @@ function App() {
    
    <Header/>
    <Hero/>
+   <Card/>
    <Footer/>
    
     </div>

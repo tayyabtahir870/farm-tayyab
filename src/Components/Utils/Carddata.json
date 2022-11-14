@@ -1,0 +1,50 @@
+[
+    {   "id":"1",
+        "img":"https://farms.marathoncash.com/assets/coin/GMT94.png",
+        "rate":"APY: 600% ",
+        "deposit":"GMT"
+    },
+
+    {   "id":"2",
+    "img":"https://farms.marathoncash.com/assets/coin/BUSD94.png",
+    "rate":"APY: 3500% ",
+    "deposit":"BUSD"
+},
+
+{   "id":"3",
+"img":"https://farms.marathoncash.com/assets/coin/USDT94.png",
+"rate":"APY: 4000% ",
+"deposit":"USDT"
+},
+
+{   "id":"4",
+"img":"https://farms.marathoncash.com/assets/coin/USDC94.png",
+"rate":"APY: 4000% ",
+"deposit":"USDC"
+},
+
+{   "id":"5",
+"img":"https://farms.marathoncash.com/assets/coin/WBNB94.png",
+"rate":"APY: 3400% ",
+"deposit":"WBNB"
+},
+
+{   "id":"6",
+"img":"https://farms.marathoncash.com/assets/coin/CAKE94.png",
+"rate":"APY: 4500% ",
+"deposit":"CAKE"
+},
+
+{   "id":"7",
+"img":"https://farms.marathoncash.com/assets/coin/ETH94.png",
+"rate":"APY: 7800% ",
+"deposit":"ETH"
+},
+
+{   "id":"8",
+"img":"https://farms.marathoncash.com/assets/coin/1INCH94.png",
+"rate":"APY: 3400% ",
+"deposit":"1INCH"
+
+}
+]
