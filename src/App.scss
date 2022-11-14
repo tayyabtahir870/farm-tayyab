@@ -1,0 +1,61 @@
+.navbarcolor{
+    color: #1DDAFD;
+    font-size: 2rem;
+    font-weight: 700;
+    text-decoration: none;
+}
+
+.header-button1 {
+    color: #1DDAFD;
+     background-color: transparent;
+    border-color: #34c439;
+    border: solid 2px #1DDAFD;
+    padding: 10px 20px;
+    font-size: 1.3rem;
+    border-radius: 10px;
+  }
+
+  .footer{
+    background-color: #000000;
+    .footer-img{
+        filter: grayscale(100%);
+    }
+    .footer-color{
+        color: #a5abb3;
+        font-size: 1.2rem;
+    }
+  }
+
+
+  .hero{
+    .hero-text{
+        font-size: 2.5rem;
+        -webkit-text-fill-color: transparent;
+        -webkit-text-stroke-width: 4px;
+        -webkit-text-stroke-color: #0054cf;
+        font-weight: 900;
+        font-stretch: normal;
+        text-align: center;
+    }
+    .para-text{
+        color: #a5abb3 ;
+        font-weight: 600;
+    }
+    .cardtext{
+        font-weight: bold;
+    }.cardfontcolor{
+        color: #0054cf;
+        font-weight: bold;
+    }
+   .pending{
+    display: flex;
+    justify-content: space-between;
+   }
+   .pendingcolor{
+    color: #a5abb3;
+    
+   }
+   .spanfontcolor{
+    color: black;
+   }
+  }
