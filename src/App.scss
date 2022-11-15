@@ -1,6 +1,6 @@
 .navbarcolor {
   color: #1ddafd;
-  font-size: 2rem;
+  font-size: 1rem;
   font-weight: 700;
   text-decoration: none;
 }
@@ -101,4 +101,49 @@
   .pendingcolor {
     color: #a5abb3;
   }
+}
+
+.community{
+  .h1-text{
+    background: linear-gradient(97.34deg,#72f596 -17.27%,#1ddafd 97.19%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    font-weight: 700;
+  }
+  .community-text{
+    color: #000000;
+    font-weight: 700;
+  }
+}
+
+
+.deposit{
+  .gmt-text{
+    font-size: 2.5rem;
+    -webkit-text-fill-color: transparent;
+    -webkit-text-stroke-width: 4px;
+    -webkit-text-stroke-color: #0054cf;
+    font-weight: 900;
+    font-stretch: normal;
+    text-align: center;
+  }
+  .earn-color{
+    color: #a5abb3;
+    font-weight: bold;
+  }
+  .deposit-card{
+    display: flex;
+    justify-content: space-between;
+  }
+  .deposit-button{
+    color: #1ddafd;
+    background-color: transparent;
+    border-color: #34c439;
+    border: solid 2px #1ddafd;
+    padding: 8px 80px;
+    font-size: 1.3rem;
+    border-radius: 10px;
+  }
+  
 }

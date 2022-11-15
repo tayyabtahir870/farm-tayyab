@@ -1,6 +1,8 @@
 import React from "react";
+import { useNavigate } from "react-router-dom";
 import cardinfo from '../Utils/Carddata.json'
 function Card() {
+  const navigate=useNavigate();
   return (
     <div className="card1">
       <div>
@@ -30,7 +32,7 @@ function Card() {
                       </div>
                     </div>
                     <hr />
-                    <button className="deposit-button mt-4">
+                    <button className="deposit-button mt-4" onClick={()=>navigate("/carddeposit", {state:item})}>
                       <b>Seclet</b>
                     </button>
                   </div>
